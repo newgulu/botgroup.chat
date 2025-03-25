@@ -6,7 +6,7 @@ export const modelConfigs = [
     baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   },
   {
-    model: "deepseek-v3-241226",
+    model: "deepseek-ai/DeepSeek-V3",
     apiKey: "sk-dyipvihumqnafeczomcmjqwshkaozbmnrzabmplfosrkdtfz",
     baseURL: "https://api.siliconflow.cn/v1/chat/completions"
   },
@@ -36,8 +36,8 @@ export const modelConfigs = [
     baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   },
   {
-    model: "deepseek-chat",
-    apiKey: "sk-dyipvihumqnafeczomcmjqwshkaozbmnrzabmplfosrkdtfz",
+    model: "deepseek-ai/DeepSeek-R1",
+    apiKey: "sk-nmbwcfcvelsbkxzadvtadwlbwkbuqkfwhfsjziylbqoehptm",
     baseURL: "https://api.siliconflow.cn/v1/chat/completions"
   },
   {
