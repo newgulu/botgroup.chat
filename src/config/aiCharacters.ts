@@ -37,8 +37,8 @@ export const modelConfigs = [
   },
   {
     model: "deepseek-chat",
-    apiKey: "DEEPSEEK_API_KEY",
-    baseURL: "https://api.deepseek.com/v1"
+    apiKey: "sk-dyipvihumqnafeczomcmjqwshkaozbmnrzabmplfosrkdtfz",
+    baseURL: "https://api.siliconflow.cn/v1/chat/completions"
   },
   {
     model: "moonshot-v1-8k",
